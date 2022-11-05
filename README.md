@@ -1,4 +1,4 @@
-# citas-medicas
+# counter clase 1 vue js
 
 ## Project setup
 ```
